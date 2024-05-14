@@ -1,0 +1,75 @@
+
+body {
+   
+    font-family: 'Manrope', sans-serif;
+    font-size: 1em;
+    background-color: #1F2039;
+}
+
+
+a:hover {
+    color:#242424 ;
+    text-decoration: none;
+    font-size: 1em;
+
+    
+    
+}
+
+em {
+    color: #A5B4FC;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 3.5;
+    color: #A5B4FC;
+    font-family: 'Montserra', sans-serif;
+}
+
+h2 {
+    color:#F9F8FF;
+}
+
+p {
+    font-size: 1.1em;
+    font-family: 'Manrope', sans-serif;
+    color: #F9F8FF; 
+    
+}
+
+ul {
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
+
+}
+
+.lien, 
+.bas-de-page {
+    background-color: white;
+
+}
+
+.cta {
+    background: linear-gradient(#8360c3, #ACAEED );
+    border-radius: 50px;
+    color: white;
+}
+
+.cta:hover { 
+    background: linear-gradient(#696484, #8788BA );
+
+}
+
+
+
+
+.tableau {
+    border-right: 1px solid #8e86b5 ;
+    border-bottom: 1px solid #8e86b5 ;
+    color: white;
+}
+
+.lien-icone:hover { 
+    opacity: 0.5;
+}
